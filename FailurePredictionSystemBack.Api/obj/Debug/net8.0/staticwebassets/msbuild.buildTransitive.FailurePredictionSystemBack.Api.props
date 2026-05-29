@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FailurePredictionSystemBack.Api.props" />
+</Project>

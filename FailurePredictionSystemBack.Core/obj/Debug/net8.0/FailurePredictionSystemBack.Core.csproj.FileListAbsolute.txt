@@ -1,0 +1,11 @@
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Core\bin\Debug\net8.0\FailurePredictionSystemBack.Core.deps.json
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Core\bin\Debug\net8.0\FailurePredictionSystemBack.Core.dll
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Core\bin\Debug\net8.0\FailurePredictionSystemBack.Core.pdb
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Core\obj\Debug\net8.0\FailurePredictionSystemBack.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Core\obj\Debug\net8.0\FailurePredictionSystemBack.Core.AssemblyInfoInputs.cache
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Core\obj\Debug\net8.0\FailurePredictionSystemBack.Core.AssemblyInfo.cs
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Core\obj\Debug\net8.0\FailurePredictionSystemBack.Core.csproj.CoreCompileInputs.cache
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Core\obj\Debug\net8.0\FailurePredictionSystemBack.Core.dll
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Core\obj\Debug\net8.0\refint\FailurePredictionSystemBack.Core.dll
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Core\obj\Debug\net8.0\FailurePredictionSystemBack.Core.pdb
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Core\obj\Debug\net8.0\ref\FailurePredictionSystemBack.Core.dll

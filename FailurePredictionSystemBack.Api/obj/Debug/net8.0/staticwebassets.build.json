@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QOjHbK9MfGom9lVJ3409ZNBmfFHy7nGJR4Kupylj7lU=",
+  "Source": "FailurePredictionSystemBack.Api",
+  "BasePath": "_content/FailurePredictionSystemBack.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

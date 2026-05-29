@@ -1,0 +1,15 @@
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Common\bin\Debug\net8.0\FailurePredictionSystemBack.Common.deps.json
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Common\bin\Debug\net8.0\FailurePredictionSystemBack.Common.dll
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Common\bin\Debug\net8.0\FailurePredictionSystemBack.Common.pdb
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Common\bin\Debug\net8.0\FailurePredictionSystemBack.Core.dll
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Common\bin\Debug\net8.0\FailurePredictionSystemBack.Core.pdb
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Common\obj\Debug\net8.0\FailurePredictionSystemBack.Common.csproj.AssemblyReference.cache
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Common\obj\Debug\net8.0\FailurePredictionSystemBack.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Common\obj\Debug\net8.0\FailurePredictionSystemBack.Common.AssemblyInfoInputs.cache
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Common\obj\Debug\net8.0\FailurePredictionSystemBack.Common.AssemblyInfo.cs
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Common\obj\Debug\net8.0\FailurePredictionSystemBack.Common.csproj.CoreCompileInputs.cache
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Common\obj\Debug\net8.0\FailureP.3809F433.Up2Date
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Common\obj\Debug\net8.0\FailurePredictionSystemBack.Common.dll
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Common\obj\Debug\net8.0\refint\FailurePredictionSystemBack.Common.dll
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Common\obj\Debug\net8.0\FailurePredictionSystemBack.Common.pdb
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Common\obj\Debug\net8.0\ref\FailurePredictionSystemBack.Common.dll
