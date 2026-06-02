@@ -15,3 +15,4 @@ C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack
 C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Persistence\obj\Debug\net8.0\FailurePredictionSystemBack.Persistence.pdb
 C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Persistence\obj\Debug\net8.0\FailurePredictionSystemBack.Persistence.genruntimeconfig.cache
 C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Persistence\obj\Debug\net8.0\ref\FailurePredictionSystemBack.Persistence.dll
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Persistence\obj\Debug\net8.0\FailurePredictionSystemBack.Persistence.sourcelink.json

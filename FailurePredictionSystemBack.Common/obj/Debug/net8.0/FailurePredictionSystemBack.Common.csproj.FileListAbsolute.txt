@@ -13,3 +13,4 @@ C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack
 C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Common\obj\Debug\net8.0\refint\FailurePredictionSystemBack.Common.dll
 C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Common\obj\Debug\net8.0\FailurePredictionSystemBack.Common.pdb
 C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Common\obj\Debug\net8.0\ref\FailurePredictionSystemBack.Common.dll
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Common\obj\Debug\net8.0\FailurePredictionSystemBack.Common.sourcelink.json

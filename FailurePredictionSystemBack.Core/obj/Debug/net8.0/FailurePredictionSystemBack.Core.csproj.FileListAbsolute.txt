@@ -9,3 +9,4 @@ C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack
 C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Core\obj\Debug\net8.0\refint\FailurePredictionSystemBack.Core.dll
 C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Core\obj\Debug\net8.0\FailurePredictionSystemBack.Core.pdb
 C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Core\obj\Debug\net8.0\ref\FailurePredictionSystemBack.Core.dll
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.Core\obj\Debug\net8.0\FailurePredictionSystemBack.Core.sourcelink.json

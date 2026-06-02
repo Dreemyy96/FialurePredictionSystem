@@ -17,3 +17,4 @@ C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack
 C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.ServiceLayer\obj\Debug\net8.0\refint\FailurePredictionSystemBack.ServiceLayer.dll
 C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.ServiceLayer\obj\Debug\net8.0\FailurePredictionSystemBack.ServiceLayer.pdb
 C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.ServiceLayer\obj\Debug\net8.0\ref\FailurePredictionSystemBack.ServiceLayer.dll
+C:\Users\koval\RiderProjects\FailurePredictionSystem\FailurePredictionSystemBack.ServiceLayer\obj\Debug\net8.0\FailurePredictionSystemBack.ServiceLayer.sourcelink.json
